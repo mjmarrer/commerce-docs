@@ -27,6 +27,10 @@ extra_packages:
   - php-bcmath
 ```
 
+>>> Will Drupal Commerce warn the developer if the bcmath extension is not found on the server,
+>>> or will calculations possibly just fail under certain conditions?
+
+
 ## New site
 
 The following command will download Drupal 8 + Commerce 2.x with all
